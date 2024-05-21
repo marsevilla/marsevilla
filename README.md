@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
-- - 📫 How to reach me **sevillamariadelmar@gmail.com**
+- 📫 How to reach me **sevillamariadelmar@gmail.com**
 
 My bootcamp projects:
 - 🐥 [Imaginnany](https://imaginanny-decd13c8a29f.herokuapp.com/)
