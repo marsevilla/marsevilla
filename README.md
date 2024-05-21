@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
-- 👨‍💻 My last two most recent projects: [https://imaginanny-decd13c8a29f.herokuapp.com/. https://www.explorelog.me/](https://imaginanny-decd13c8a29f.herokuapp.com/. https://www.explorelog.me/)
+- 🐥 [Imaginnany https://imaginanny-decd13c8a29f.herokuapp.com/](Imaginnany https://imaginanny-decd13c8a29f.herokuapp.com/)
+
+- 🗺️ [ExploreLog https://www.explorelog.me/](ExploreLog https://www.explorelog.me/)
 
 - 📫 How to reach me **sevillamariadelmar@gmail.com**
 
