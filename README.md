@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
-- 🐥 [Imaginnany](https://imaginanny-decd13c8a29f.herokuapp.com/)
+- - 📫 How to reach me **sevillamariadelmar@gmail.com**
 
+My bootcamp projects:
+- 🐥 [Imaginnany](https://imaginanny-decd13c8a29f.herokuapp.com/)
 - 🗺️ [ExploreLog](https://www.explorelog.me/)
 
-- 📫 How to reach me **sevillamariadelmar@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
