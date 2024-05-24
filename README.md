@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm María del Mar!</h1>
+<h1 align="center">Hi 👋, I'm María del Mar 🌊!</h1>
 <h3 align="center">A passionate full-stack developer from Spain living in Clermont-Ferrand 🇫🇷</h3>
 
 - 🔭 I’m currently looking for **opportunities as full-stack dev**
