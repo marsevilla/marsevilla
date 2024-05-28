@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm María del Mar 🌊!</h1>
-<h3 align="center">A passionate full-stack developer from Spain living in Clermont-Ferrand 🇫🇷</h3>
+<h3 align="center">A passionate full-stack/frontend developer from Spain living in Clermont-Ferrand 🇫🇷</h3>
 
-- 🔭 I’m currently looking for **opportunities as full-stack dev**
+- 🔭 I’m currently looking for **opportunities as full-stack/frontend dev**
 
 - 🌱 I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
